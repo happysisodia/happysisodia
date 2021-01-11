@@ -9,6 +9,5 @@
 
 
 <p align='center'>
-
 <a href="https://www.linkedin.com/in/happysisodia/"><img height="30" src="https://github.com/happysisodia/happysisodia/blob/master/linkedin.png"></a>
 </p>
