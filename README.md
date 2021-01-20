@@ -71,4 +71,5 @@
 ### Follow me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Happy%20Sisodia-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/happysisodia/)](https://www.linkedin.com/in/happysisodia/) 
-[![Gmail Badge](https://img.shields.io/badge/-@happysisodia-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:happy.a.sisodia@gmail.com)](mailto:happy.a.sisodia@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-@happySisodia-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:happy.a.sisodia@gmail.com)](mailto:happy.a.sisodia@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-@HappySisodia-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/happysisodia)](https://github.com/happysisodia)
