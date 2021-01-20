@@ -70,11 +70,5 @@
 
 ### Follow me
 
-
-
-
-
-
-<p align='center'>
-<a href="https://www.linkedin.com/in/happysisodia/"><img height="30" src="https://github.com/happysisodia/happysisodia/blob/master/linkedin.png"></a>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Happy%20Sisodia-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/happysisodia/)](https://www.linkedin.com/in/happysisodia/) 
+[![Gmail Badge](https://img.shields.io/badge/-@happysisodia-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:happy.a.sisodia@gmail.com)](mailto:happy.a.sisodia@gmail.com)
