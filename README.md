@@ -10,10 +10,10 @@
   </em>
  </p>
 
-<em> Want to know more about me? [Click here](http://happysisodia.github.io/) </em>
+
 <em>
   
-**Talking about Personal Stuffs:**
+**A Little about me:**
 
 - 👨🏽‍💻 I’m currently looking for future opportunities 
 - 💼 I've completed my M.S in Computer Science at [Clemson University](http://www.clemson.edu/);
@@ -22,6 +22,8 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via happy.a.sisodia@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/happysisodia/) to reach me;
 <br/> 
+
+Want to know more about me? [Click here](http://happysisodia.github.io/) 
 </em>
 
 ### Worked with 
@@ -44,14 +46,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
-### GitHub Stats
-
-<p align="center">
-  <a href = "https://github.com/happysisodia">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=happysisodia&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
- 
 ### Top Languages
 
 <p align="center">
