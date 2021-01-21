@@ -16,11 +16,11 @@
 **A Little about me:**
 
 - 👨🏽‍💻 I’m currently looking for future opportunities 
-- 💼 I've completed my M.S in Computer Science at [Clemson University](http://www.clemson.edu/);
-- 🤔 My interests are with Data Science 📊,Web App Development 🖥️, Cricket 🏏 etc..;
+- 💼 I've completed my M.S in Computer Science at [Clemson University](http://www.clemson.edu/)
+- 🤔 My interests are with Data Science 📊,Web App Development 🖥️, Cricket 🏏 etc..
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via happy.a.sisodia@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/happysisodia/) to reach me;
+- 💬 Ask me about anything, I am happy to help
+- 📫 Please email via happy.a.sisodia@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/happysisodia/) to reach me
 <br/> 
 
 Want to know more about me? [Click here](http://happysisodia.github.io/) 
