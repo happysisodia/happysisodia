@@ -1,4 +1,4 @@
-## Hi there, I'm [Happy](http://happysisodia.github.io/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+## Hi there, I'm [Happy](http://happysisodia.github.io/)! (Yes, Thats my Real Name!) <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -19,7 +19,7 @@
 - 💼 I've completed my M.S in Computer Science at [Clemson University](http://www.clemson.edu/)
 - 🤔 My interests are with Data Science 📊,Web App Development 🖥️, Cricket 🏏 etc..
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
-- 💬 Ask me about anything, I am happy to help
+- 💬 Ask me about anything, I am "happy" to help
 - 📫 Please email via happy.a.sisodia@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/happysisodia/) to reach me
 <br/> 
 
