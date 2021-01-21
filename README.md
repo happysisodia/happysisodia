@@ -4,8 +4,9 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <p>
-  <em>
-    A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Gujarat, India.
+  <em> 
+    An experienced data scientist with expertise in analyzing and synthesizing large data sets for critical business decisions. Strong experience in Advanced Programming and passion for exploring patterns and relationships in large volumes of data to solve complex problems using advanced statistical models
+    
   </em>
  </p>
 
